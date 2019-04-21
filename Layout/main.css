@@ -1,0 +1,34 @@
+.wrap{
+    width: 784px
+}
+.wrap .header{
+    background-color: darkkhaki;
+    width: 100%;
+    height: 200px;   
+}
+
+.badan{
+    height: 450px;
+}
+.wrap .badan .sidebar{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: darkolivegreen ;
+    float: left;
+    height: 100%;
+    width: 200px;
+}
+
+.wrap .badan .content{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: darkseagreen;
+    float: right;
+    height: 100%;
+    width: 584px;
+}
+
+.wrap .footer{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: darkslategrey;
+    height: 100px;
+    width: 100%;
+}
